@@ -36,8 +36,8 @@
   
   
 - 🖥 &nbsp;
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![KaliLinux](https://img.shields.io/badge/Kali_Linux-333333?style=for-the-badge&logo=kali-linux&logoColor=00599C)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+  ![KaliLinux](https://img.shields.io/badge/Kali_Linux-333333?style=flat&logo=kali-linux&logoColor=00599C)
   
 
 
