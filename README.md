@@ -27,11 +27,17 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  
+  
+- 🖥 &nbsp;
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![KaliLinux](https://img.shields.io/badge/Kali_Linux-333333?style=for-the-badge&logo=kali-linux&logoColor=00599C)
   
 
 
