@@ -36,6 +36,8 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
+  ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
   
 - 🖥 &nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
