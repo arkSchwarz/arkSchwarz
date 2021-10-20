@@ -1,6 +1,7 @@
 
 
 <h2> Hey there! I'm Yakup Batuhan Ördek. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2> 
+<img width="35%" height="250px" align="right" alt="Github" src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
