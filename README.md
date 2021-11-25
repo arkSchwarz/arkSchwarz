@@ -50,7 +50,7 @@
 <br/>
 
 <a href="https://github.com/arkSchwarz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arkSchwarz&theme=buefy&show_icons=true" />
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkSchwarz&theme=buefy&layout=compact" />
 </a>
 
