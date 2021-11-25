@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying as Computer Science at University of Yıldırım Beyazıt.
-- 💼 &nbsp; Workes as a trainee at Karadeniz Technical University
+- 💼 &nbsp; Worked as a trainee at Karadeniz Technical University
 - 🌱 &nbsp; Learning more about Ethical Hacking, Cyber Security.
 - ✍️ &nbsp; Create Simple Game Mods and Optimizing Games as hobbies/side hustles.
 
